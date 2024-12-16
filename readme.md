@@ -1,6 +1,8 @@
 ## 개요
 다올위키에서 사용하는 Vision 스킨입니다.
 
+[Wikive/Vision-Skin](https://github.com/Wikive/Vision-Skin)에서 가져왔으나, 해당 저장소가 삭제되어서 이 저장소를 만들었습니다.
+
 ## 추가적인 내용
 [[자세히 알아보기]](https://wiki.daol.cc/w/다올위키%2FVision)
 
